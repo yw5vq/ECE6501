@@ -1,0 +1,3 @@
+Yidi Wang (yw5vq)
+I have studied Python and applied it in scientific programming, but do not have much background in embedded systems design. In the Hydroinformatics that I took last semester, I learned to establish and apply a Arduino-based sensor to the monitoring of real-time temperature and humidity.
+My interests mainly focus on flood monitoring and mitigation using CPS tools. From this class, I expect to study the fundamental theories and application of embedded systems, and try to apply them in my future research.
